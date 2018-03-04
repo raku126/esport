@@ -1,0 +1,41 @@
+body
+{
+    background-color: #2b2a29;
+    color:#fefefe;
+}
+.font-size-1
+{
+    font-size: 150%;
+
+    font-family: "Eras Bold ITC", sans-serif;
+}
+.background-top
+{
+    background-color: #434242;
+    padding-bottom: 1.5em;
+}
+.ikona
+{
+    height: 1.1em;
+    margin-right: 5px;
+    margin-bottom: 5px;
+
+}
+.height-1
+{
+   height: 30px;
+
+}
+
+.option
+{
+   // border-radius: 50%;
+    height: auto;
+    background-color: #e31e24 ;
+    font-size: 10rem;
+}
+
+.offset-custom
+{
+    margin-left: 4.1666665%;
+}
